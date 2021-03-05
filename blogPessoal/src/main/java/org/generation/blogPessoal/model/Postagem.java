@@ -74,8 +74,8 @@ public class Postagem {
 		return data;
 	}
 
-	public void setDate(Date date) {
-		this.data = date;
+	public void setDate(Date data) {
+		this.data = data;
 	}
 	
 	
